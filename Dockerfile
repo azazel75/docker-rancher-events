@@ -1,5 +1,5 @@
-FROM python:2.7.11
-MAINTAINER jason@thesparktree.com
+FROM python:2-slim
+MAINTAINER alberto@metapensiero.it
 
 
 #Create confd folder structure
